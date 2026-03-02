@@ -5,3 +5,18 @@ body {
 h3 {
     color: green;
 }
+
+/*classe*/
+.paragrafo {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
+
+/*ID*/
+#titulo-exclusivo{
+    background-color: purple;
+    color: yellow;
+    padding: 5px;
+    font-size: 40px;
+}
