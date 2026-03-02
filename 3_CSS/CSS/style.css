@@ -47,3 +47,22 @@ h2 {
 .hex-2 {
     color: #1c8a94;
 }
+
+/*Aprofundando em HEX*/
+.simples-hex {
+    color: #a5ff;
+}
+
+.simples-hex-1 {
+    color: #b684b6
+}
+
+/*RGB*/
+.rgb {
+    color: rgb(255, 0, 0);
+}
+
+/*RGBa*/
+.rgba {
+    color: rgba(200, 99, 45, 0.3);
+}
