@@ -20,3 +20,30 @@ h3 {
     padding: 5px;
     font-size: 40px;
 }
+
+/*ordem das regras*/
+h2 {
+    border-bottom: 2px solid red;
+}
+
+.titulo {
+    border-bottom: 3px solid blue;
+}
+
+#algum-titulo {
+    border-bottom: 4px solid green;
+}
+
+/*Nome das cores*/
+.color-name {
+    color: blueviolet;
+}
+
+/*Hexadecimal*/
+.hex {
+    color: #55a398;
+}
+
+.hex-2 {
+    color: #1c8a94;
+}
