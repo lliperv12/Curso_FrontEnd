@@ -101,3 +101,16 @@ h2 {
     color: white;
     padding: 10px;
 }
+
+/*Centralizando bg image*/
+.nao-centralizado-bg,
+.centralizado-bg {
+    height: 400px;
+    width: 400px;
+    background-image: url(img/ponte.jpg);
+}
+
+.centralizado-bg {
+    background-position: center;
+    background-size: cover;
+}
